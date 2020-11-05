@@ -1,5 +1,30 @@
 .container-header{
     width: 100%;
-    height: 400px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-section-promo{
+    display: inline-flexbox;
+    width: 70%;
+    margin: 100px auto;
+    align-items: center;
+}
+
+.item-article{
+    width: 30%;
+    height: 100px;
+    background-color: yellow;
+}
+
+body{
     background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    
 }

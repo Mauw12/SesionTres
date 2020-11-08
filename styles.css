@@ -1,36 +1,17 @@
 .container-header{
     width: 100%;
-<<<<<<< HEAD
-<<<<<<< HEAD
     height: 50px;
-=======
-    height: 200px;
->>>>>>> 203eb1573bfd3e5bd1d76d64ddedee5083a64fcf
     background-color: yellow;
     border-radius: 40px;
     justify-content: center;
     align-items: center;
 }
 
-<<<<<<< HEAD
 .promo{
     display: flex;
     width: 90%;
     margin: 100px auto;
     
-=======
-.container-section-promo{
-    display: inline-flexbox;
-    width: 70%;
-    margin: 100px auto;
-    align-items: center;
-}
-
-.item-article{
-    width: 30%;
-    height: 100px;
-    background-color: yellow;
->>>>>>> 203eb1573bfd3e5bd1d76d64ddedee5083a64fcf
 }
 
 body{
@@ -39,20 +20,12 @@ body{
 
 h1{
     text-align: center;
-<<<<<<< HEAD
-=======
-    
->>>>>>> 203eb1573bfd3e5bd1d76d64ddedee5083a64fcf
 }
 
   
 .publish h3 {
     font-family: "Alegreya", serif;
     font-size: 40px;
-<<<<<<< HEAD
-=======
-    line-height: 48px;
->>>>>>> 203eb1573bfd3e5bd1d76d64ddedee5083a64fcf
     color: #025157;
   }
   
@@ -67,7 +40,6 @@ h1{
     display: flex;
   }
   
-<<<<<<< HEAD
 .publish > form label {
     color: #025157;
     margin-right: 18px;
@@ -83,39 +55,3 @@ h1{
     width: 120px;
     margin-top: 10px;
   }
-
-iframe{
-    text-align: center;
-=======
-    height: 200px;
-    background-color: blueviolet;
-}
-
-.container-section-promo{
-    display: inline-block;
-    width: 70%;
-    margin: 100px auto;
-    align-items: center;
-}
-
-.item-article{
-    width: 30%;
-    height: 100px;
-    background-color: blueviolet;
-}
-
-body{
-    background-color: cornflowerblue;
-}
-
-h1{
-    text-align: center;
-    align-items: center;
->>>>>>> 6e41dae37b790ffdc506501078c9695cbc82211d
-}
-=======
-.publish > form p {
-    color: #025157;
-    margin-right: 18px;
-  }
->>>>>>> 203eb1573bfd3e5bd1d76d64ddedee5083a64fcf
